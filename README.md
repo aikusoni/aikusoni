@@ -16,7 +16,7 @@
 - 🍕 Pizza
 
 ### 🛠️ My Tech Stack
-*I have experience with these technologies, but I don't consider myself an expert in all of them.*
+*I have experience using the technologies listed below, but I'm not an expert in all of them.*
 
 #### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
