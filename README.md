@@ -2,7 +2,7 @@
 
 ### 💻 About Me
 - 🌍 I’m from South Korea.
-- 🌱 I'm a Super Novice. (just joke, I wanna be a super novice.)
+- 🌱 I'm a Super Novice. (Just kidding, I wanna be a super novice.)
 >> Like the Super Novice (versatile character in Ragnarok Online), I explore and learn across various skills, embracing the journey of being a jack-of-all-trades.
 
 ### 📊 GitHub Stats
