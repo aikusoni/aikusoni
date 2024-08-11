@@ -49,7 +49,8 @@
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
-#### DevOps, Tools and etc...
+#### BuildTools, DevOps and etc...
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-333333?style=flat&logo=apache-airflow)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
