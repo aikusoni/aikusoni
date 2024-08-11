@@ -13,7 +13,6 @@
 - 🎨 Animations
 - 📚 Comics
 - 🍲 Budae Jjigae
-- 🍔 Hamburger
 - 🍕 Pizza
 
 ### 🛠️ My Tech Stack
