@@ -2,6 +2,8 @@
 
 ### 💻 About Me
 - 🌍 I’m from South Korea.
+- 🌱 I'm a Super Novice. (just joke)
+>> Like the versatile character in Ragnarok Online, I explore and learn across various skills, embracing the journey of being a jack-of-all-trades.
 
 ### 📊 GitHub Stats
 ![aikusoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=aikusoni&show_icons=true&theme=radical)
