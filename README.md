@@ -34,6 +34,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![Tomcat](https://img.shields.io/badge/Tomcat-333333?style=flat&logo=apache-tomcat)
 ![JSP](https://img.shields.io/badge/-JSP-333333?style=flat)
 
 #### Desktop & Mobile Development
