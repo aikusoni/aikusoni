@@ -2,7 +2,7 @@
 
 ### 💻 About Me
 - 🌍 I’m from South Korea.
-- 🌱 I'm a Super Novice. (Just kidding, I wanna be a super novice.)
+- 🌱 I'm a Super Novice. (Just kidding, Like the Super Novice (versatile character in Ragnarok Online), I want to try out different things.)
 
 ### 📊 GitHub Stats
 ![aikusoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=aikusoni&show_icons=true&theme=radical)
