@@ -56,6 +56,7 @@
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-333333?style=flat&logo=docker&logoColor=white)
 ![Docker Hub](https://img.shields.io/badge/-Docker%20Hub-333333?style=flat&logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github-actions)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
