@@ -33,7 +33,6 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![Tomcat](https://img.shields.io/badge/Tomcat-333333?style=flat&logo=apache-tomcat)
 ![JSP](https://img.shields.io/badge/-JSP-333333?style=flat)
 
@@ -74,6 +73,7 @@
 ![AWS Glue](https://img.shields.io/badge/-AWS%20Glue-333333?style=flat&logo=amazon-glue)
 ![AWS KMS](https://img.shields.io/badge/-AWS%20KMS-333333?style=flat&logo=amazon-kms)
 ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 #### Scripting & Automation
 ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
