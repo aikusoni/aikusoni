@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Hoon-Ki Kim!
 
 ### 💻 About Me
-- 🐵 I'm a code monkey who's been a beginner for over 10 years. Still waiting for my upgrade!
+- 🐵 I'm a code monkey who's been a beginner for over 10 years. Still waiting for my upgrade.
   
 ### 📊 GitHub Stats
 ![aikusoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=aikusoni&show_icons=true&theme=radical)
@@ -16,7 +16,7 @@
 - 🍕 Pizza
 
 ### 🛠️ My Tech Stack
-*I have experience using the technologies listed below, but I'm not that good at them. After all, I'm still a beginner!*
+*I have experience using the technologies listed below, but I'm not that good at them. After all, I'm still a beginner.*
 
 #### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
